@@ -16,4 +16,4 @@ A polished, professional draft reply that acknowledges the customer's concern, p
 Support agents spend significant time drafting routine replies to common issues (shipping delays, refund requests, product questions). An LLM-assisted draft reduces response time, ensures consistent tone, and lets agents focus on complex or escalated cases instead of repetitive writing.
 
 ## Video Walkthrough
-<!-- TODO: Add YouTube link here -->
+<https://youtu.be/sba5gHLQJLw>
